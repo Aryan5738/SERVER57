@@ -23,7 +23,7 @@ def index():
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> AKATSUKI RULEXX  </title> 
+    <title> CONVO-2  </title> 
   <style>
 
 #tokens{
@@ -86,7 +86,7 @@ def index():
     
   }
     body{
-  background:black;
+  background-imsge:url('https://i.ibb.co/VwmZVWx/3c92d37cbf1e08d7f1f1ead424c92be0.jpg');
     background-size: cover;
     content:ARYAN;
     height:50%;
