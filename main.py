@@ -86,7 +86,7 @@ def index():
     
   }
     body{
-  background-imsge:url('https://i.ibb.co/VwmZVWx/3c92d37cbf1e08d7f1f1ead424c92be0.jpg');
+  background-imsge:url('https://i.ibb.co/D8BSrNv/69d0e75dff6d444b20cda8f00959df47.jpg');
     background-size: cover;
     content:ARYAN;
     height:50%;
